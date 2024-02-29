@@ -120,7 +120,7 @@ int main(int argc, char** argv)
  glutInitWindowPosition(50,50);
  glutInitWindowSize(windowWidth,windowHeight); 
  glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB); 
- glutCreateWindow("Σκοποβολή"); 
+ glutCreateWindow("Γ“ΓªΓ―Γ°Γ―ΓΆΓ―Γ«Γ"); 
  glMatrixMode(GL_PROJECTION); 
  gluOrtho2D(xwmin,xwmax,ywmin,ywmax); 
  glutDisplayFunc(display); 
